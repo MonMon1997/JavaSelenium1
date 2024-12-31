@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="tests" thread-count="4">
+    <!--First Part-->
+    <test verbose="2" preserve-order="true" name="ChormeTest1">
+        <parameter name="browserName" value="chrome"></parameter>
+        <classes>
+            <class name="Project.P3_2_googlesearchpagetesting">
+                <methods>
+                    <include name="googlesearch_searchbox"/>
+                    <include name="googlesearch_box_return"/>
+                    <include name="aboutbutton"/>
+                    <include name="storebutton"/>
+                    <include name="imagebutton"/>
+                    <include name="appbutton"/>
+                    <include name="googleplaybutton"/>
+                    <include name="googlemapbutton"/>
+                    <include name="loginbutton"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+
+    <test verbose="2" preserve-order="true" name="EdgeTest1">
+        <parameter name="browserName" value="edge"></parameter>
+        <classes>
+            <class name="Project.P3_2_googlesearchpagetesting">
+                <methods>
+                    <include name="googlesearch_searchbox"/>
+                    <include name="googlesearch_box_return"/>
+                    <include name="aboutbutton"/>
+                    <include name="storebutton"/>
+                    <include name="imagebutton"/>
+                    <include name="appbutton"/>
+                    <include name="googleplaybutton"/>
+                    <include name="googlemapbutton"/>
+                    <include name="loginbutton"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+
+    <!--Second Part-->
+    <test verbose="2" preserve-order="true" name="ChromeTest2">
+        <parameter name="browserName" value="chrome"></parameter>
+        <classes>
+            <class name="Project.P3_2_googlesearchpagetesting">
+                <methods>
+                    <include name="loginbutton"/>
+                    <include name="goodhandsbutton"/>
+                    <include name="languagelink"/>
+                    <include name="settingbutton_advancesearch"/>
+                    <include name="settingbutton_theme"/>
+                    <include name="photosearchbutton"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+
+    <test verbose="2" preserve-order="true" name="EdgeTest2">
+        <parameter name="browserName" value="edge"></parameter>
+        <classes>
+            <class name="Project.P3_2_googlesearchpagetesting">
+                <methods>
+                    <include name="loginbutton"/>
+                    <include name="goodhandsbutton"/>
+                    <include name="languagelink"/>
+                    <include name="settingbutton_advancesearch"/>
+                    <include name="settingbutton_theme"/>
+                    <include name="photosearchbutton"/>
+
+
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+
+</suite>
