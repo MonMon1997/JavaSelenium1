@@ -2,6 +2,7 @@ package GoogleWalkthrough;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
+import com.aventstack.extentreports.MediaEntityBuilder;
 import com.aventstack.extentreports.gherkin.model.*;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import org.openqa.selenium.*;
@@ -9,22 +10,26 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Test;
 
 import java.time.Duration;
 
 public class googlewalkthrough {
     public static void main(String[] args) throws InterruptedException {
 
-        //EXTENTSREPORTS SETUP
-        ExtentSparkReporter spark = new ExtentSparkReporter("P6.html");
-        ExtentReports extent = new ExtentReports();
-        extent.attachReporter(spark);
-        ExtentTest test = extent.createTest(Feature.class, "Google Search");
-        ExtentTest scenario = test.createNode(Scenario.class, "Walkthrough the whole google");
+        WebDriver driver;
 
-        //SET UP DRIVER
-        System.setProperty("webdriver.chrome.driver", "C:\\Program Files\\Intellij\\IdeaProjects\\Web_Automation_2\\chromedriver.exe");
-        WebDriver driver = new ChromeDriver();
+        //EXTENTSREPORTS SETUP
+            ExtentSparkReporter spark = new ExtentSparkReporter("P6.html");
+            ExtentReports extent = new ExtentReports();
+            extent.attachReporter(spark);
+            ExtentTest test = extent.createTest(Feature.class, "Google Search");
+            ExtentTest scenario = test.createNode(Scenario.class, "Walkthrough the whole google");
+            //SET UP DRIVER
+            System.setProperty("webdriver.chrome.driver", "C:\\Program Files\\Intellij\\IdeaProjects\\Web_Automation_2\\chromedriver.exe");
+            driver = new ChromeDriver();
+
 
         try {
             driver.manage().window().maximize();
@@ -34,17 +39,18 @@ public class googlewalkthrough {
             scenario.createNode(Given.class, "SET UP DRIVER").fail("fail");
         }
 
-        //Click I'm feeling Good button and Return
         WebDriverWait wait = new WebDriverWait(driver,Duration.ofSeconds(5));
+
+        //Click I'm feeling Good button and Return
         try {
-            WebElement open = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("/html/body/div[1]/div[3]/form/div[1]/div[1]/div[3]/center/input[2]")));
-            open.click();
-            wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//a[contains(@title, 'Google doodles')]")));
-            driver.navigate().back();
-            driver.switchTo().defaultContent();
-            scenario.createNode(When.class, "User Click I'm feeling Good button and Return").pass("pass");
+                WebElement open = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("/html/body/div[1]/div[3]/form/div[1]/div[1]/div[3]/center/input[2]")));
+                open.click();
+                wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//a[contains(@title, 'Google doodles')]")));
+                driver.navigate().back();
+                driver.switchTo().defaultContent();
+                scenario.createNode(When.class, "User Click I'm feeling Good button and Return").pass("pass");
         }catch (Exception e){
-            scenario.createNode(When.class, "User Click I'm feeling Good button and Return").fail("fail");
+                scenario.createNode(When.class, "User Click I'm feeling Good button and Return").fail("fail");
         }
 
         //Dismiss the Iframe
@@ -77,7 +83,9 @@ public class googlewalkthrough {
            scenario.createNode(Then.class, "CHANGE LAN FROM ENGLISH > FRANCE").fail("fail");
        }
 
-        extent.flush();
+       extent.flush();
+       driver.close();
+       driver.quit();
     }
 }
 //        try {
