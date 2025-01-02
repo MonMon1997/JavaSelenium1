@@ -105,7 +105,7 @@ public class googleSearch_Testng {
 
 
     @AfterTest
-    public void setupp(){
+    public void setup6(){
         extent.flush();
         driver.close();
         driver.quit();
