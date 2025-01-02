@@ -5,6 +5,8 @@ import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.MediaEntityBuilder;
 import com.aventstack.extentreports.gherkin.model.*;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
@@ -19,6 +21,17 @@ public class googlewalkthrough {
     public static void main(String[] args) throws InterruptedException {
 
         WebDriver driver;
+
+        //Log4j2
+        Logger logger = LogManager.getLogger(googlewalkthrough.class);
+        logger.info("User is in prepare");
+
+        //trace message cannot appear
+        logger.info("This is a info message");
+        logger.error("This is a error message");
+        logger.warn("This is a warn message");
+        logger.fatal("This is a warn message");
+        System.out.println("Complete");
 
         //EXTENTSREPORTS SETUP
             ExtentSparkReporter spark = new ExtentSparkReporter("P6.html");
@@ -88,6 +101,7 @@ public class googlewalkthrough {
        driver.quit();
     }
 }
+
 //        try {
 //            WebElement dialog = driver.findElement(By.name("callout"));
 //            driver.switchTo().frame(dialog);
