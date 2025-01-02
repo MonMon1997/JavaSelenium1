@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Configuration status="warn" name="MyApp">
+
+<!--    Two appender : File and console-->
     <Appenders>
         <!--The is File Appender -->
         <!--The is File Location -->
@@ -11,8 +13,8 @@
         </File>
 
         <!--The is Console Appender -->
-        <Console name="STDOUT" target="SYSTEM_OUT">
-            <PatternLayout pattern="%m%n"/>
+        <Console name="ConsoleAppender" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d %p %c{1.} [%t] %m%n"/>
         </Console>
     </Appenders>
 
@@ -22,7 +24,7 @@
         <!--All Level Include-->
         <Root level="all">
             <AppenderRef ref="MyFile"/>
-            <AppenderRef ref="STDOUT"/>
+            <AppenderRef ref="ConsoleAppender"/>
         </Root>
     </Loggers>
 </Configuration>
