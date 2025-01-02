@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test" thread-count="4" parallel="classes">
+
+    <test  name="Suite1">
+        <classes>
+            <class name="GoogleWalkthrough.googleSearch_Testng" >
+                <methods>
+                    <include name="setup0"/>
+                    <include name="setup1"/>
+                    <include name="setup2"/>
+                    <include name="setup3"/>
+                    <include name="setup4"/>
+                    <include name="setup6"/>
+                    <exclude name="setup5"/>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+
+    <test name="Suite2">
+        <classes>
+            <class name="GoogleWalkthrough.googleSearch_Testng" >
+                <methods>
+                    <include name="setup0"/>
+                    <include name="setup1"/>
+                    <include name="setup2"/>
+                    <include name="setup3"/>
+                    <include name="setup4"/>
+                    <include name="setup6"/>
+                    <exclude name="setup5"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Suite3">
+        <classes>
+            <class name="GoogleWalkthrough.googleSearch_Testng" />
+        </classes>
+    </test>
+
+</suite>
