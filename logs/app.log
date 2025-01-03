@@ -1,236 +1,487 @@
-2024-08-24 15:25:07,389 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:25:08,484 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:25:09,236 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:25:09,533 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:25:10,128 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:25:10,186 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:25:10,504 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/?pccc=1
-2024-08-24 15:48:06,355 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:48:07,264 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:48:07,916 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:48:08,187 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:48:08,748 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:48:08,802 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:48:09,116 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/?pccc=1
-2024-08-24 15:52:06,551 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:52:07,540 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:52:08,488 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:52:09,011 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:52:09,962 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:52:10,046 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:52:10,493 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/?pccc=1
-2024-08-24 15:54:01,889 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:54:04,338 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:54:05,092 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:54:05,361 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:54:05,980 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:54:06,038 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:54:06,391 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/?pccc=1
-2024-08-24 15:55:39,303 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:55:40,382 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:55:41,197 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:55:41,433 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:55:42,069 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:55:42,118 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:55:42,421 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/?pccc=1
-2024-08-24 15:57:31,710 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:57:32,784 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:57:33,448 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:57:33,714 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:57:34,224 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:57:34,272 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:57:34,569 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/?pccc=1
-2024-08-24 15:59:39,488 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:59:40,383 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:59:41,131 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:59:41,386 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:59:41,929 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:59:41,973 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/
-2024-08-24 15:59:42,276 TRACE P.P5_GoogleSearchwithCucumber [main] Now Access: https://www.google.com/?pccc=1
-2024-12-29 16:10:26,144 DEBUG i.n.u.i.l.InternalLoggerFactory [main] Using Log4J2 as the default logging framework
-2024-12-29 16:10:26,154 DEBUG i.n.u.ResourceLeakDetector [main] -Dio.netty.leakDetection.level: simple
-2024-12-29 16:10:26,154 DEBUG i.n.u.ResourceLeakDetector [main] -Dio.netty.leakDetection.targetRecords: 4
-2024-12-29 16:10:26,160 DEBUG i.n.u.ResourceLeakDetectorFactory [main] Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@5b1ebf56
-2024-12-29 16:10:26,172 DEBUG i.n.u.i.PlatformDependent0 [main] -Dio.netty.noUnsafe: false
-2024-12-29 16:10:26,172 DEBUG i.n.u.i.PlatformDependent0 [main] Java version: 22
-2024-12-29 16:10:26,173 DEBUG i.n.u.i.PlatformDependent0 [main] sun.misc.Unsafe.theUnsafe: available
-2024-12-29 16:10:26,174 DEBUG i.n.u.i.PlatformDependent0 [main] sun.misc.Unsafe.copyMemory: available
-2024-12-29 16:10:26,174 DEBUG i.n.u.i.PlatformDependent0 [main] sun.misc.Unsafe.storeFence: available
-2024-12-29 16:10:26,175 DEBUG i.n.u.i.PlatformDependent0 [main] java.nio.Buffer.address: available
-2024-12-29 16:10:26,175 DEBUG i.n.u.i.PlatformDependent0 [main] direct buffer constructor: unavailable
-java.lang.NoSuchMethodException: java.nio.DirectByteBuffer.<init>(long,int)
-	at java.base/java.lang.Class.getConstructor0(Class.java:3784) ~[?:?]
-	at java.base/java.lang.Class.getDeclaredConstructor(Class.java:2955) ~[?:?]
-	at io.netty.util.internal.PlatformDependent0$5.run(PlatformDependent0.java:287) ~[netty-common-4.1.91.Final.jar:4.1.91.Final]
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:319) ~[?:?]
-	at io.netty.util.internal.PlatformDependent0.<clinit>(PlatformDependent0.java:282) [netty-common-4.1.91.Final.jar:4.1.91.Final]
-	at io.netty.util.internal.PlatformDependent.isAndroid(PlatformDependent.java:333) [netty-common-4.1.91.Final.jar:4.1.91.Final]
-	at io.netty.util.internal.PlatformDependent.<clinit>(PlatformDependent.java:88) [netty-common-4.1.91.Final.jar:4.1.91.Final]
-	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:114) [netty-common-4.1.91.Final.jar:4.1.91.Final]
-	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:251) [netty-common-4.1.91.Final.jar:4.1.91.Final]
-	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:224) [netty-common-4.1.91.Final.jar:4.1.91.Final]
-	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:203) [netty-common-4.1.91.Final.jar:4.1.91.Final]
-	at org.asynchttpclient.DefaultAsyncHttpClient.newNettyTimer(DefaultAsyncHttpClient.java:111) [async-http-client-2.12.3.jar:?]
-	at org.asynchttpclient.DefaultAsyncHttpClient.<init>(DefaultAsyncHttpClient.java:90) [async-http-client-2.12.3.jar:?]
-	at org.asynchttpclient.Dsl.asyncHttpClient(Dsl.java:32) [async-http-client-2.12.3.jar:?]
-	at org.openqa.selenium.remote.http.netty.NettyClient.createHttpClient(NettyClient.java:94) [selenium-remote-driver-4.9.0.jar:?]
-	at org.openqa.selenium.remote.http.netty.NettyClient.<clinit>(NettyClient.java:47) [selenium-remote-driver-4.9.0.jar:?]
-	at org.openqa.selenium.remote.http.netty.NettyClient$Factory.createClient(NettyClient.java:135) [selenium-remote-driver-4.9.0.jar:?]
-	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:116) [selenium-remote-driver-4.9.0.jar:?]
-	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:94) [selenium-remote-driver-4.9.0.jar:?]
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.<init>(DriverCommandExecutor.java:88) [selenium-remote-driver-4.9.0.jar:?]
-	at org.openqa.selenium.chromium.ChromiumDriverCommandExecutor.<init>(ChromiumDriverCommandExecutor.java:40) [selenium-chromium-driver-4.9.0.jar:?]
-	at org.openqa.selenium.chrome.ChromeDriver$ChromeDriverCommandExecutor.<init>(ChromeDriver.java:111) [selenium-chrome-driver-4.9.0.jar:?]
-	at org.openqa.selenium.chrome.ChromeDriver.generateExecutor(ChromeDriver.java:101) [selenium-chrome-driver-4.9.0.jar:?]
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:88) [selenium-chrome-driver-4.9.0.jar:?]
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:84) [selenium-chrome-driver-4.9.0.jar:?]
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:52) [selenium-chrome-driver-4.9.0.jar:?]
-	at GoogleWalkthrough.googlewalkthrough.main(googlewalkthrough.java:10) [test-classes/:?]
-2024-12-29 16:10:26,183 DEBUG i.n.u.i.PlatformDependent0 [main] java.nio.Bits.unaligned: available, true
-2024-12-29 16:10:26,184 DEBUG i.n.u.i.PlatformDependent0 [main] jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable
-java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @5b87ed94
-	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:398) ~[?:?]
-	at java.base/java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:709) ~[?:?]
-	at java.base/java.lang.reflect.Method.invoke(Method.java:571) ~[?:?]
-	at io.netty.util.internal.PlatformDependent0$7.run(PlatformDependent0.java:410) ~[netty-common-4.1.91.Final.jar:4.1.91.Final]
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:319) ~[?:?]
-	at io.netty.util.internal.PlatformDependent0.<clinit>(PlatformDependent0.java:401) [netty-common-4.1.91.Final.jar:4.1.91.Final]
-	at io.netty.util.internal.PlatformDependent.isAndroid(PlatformDependent.java:333) [netty-common-4.1.91.Final.jar:4.1.91.Final]
-	at io.netty.util.internal.PlatformDependent.<clinit>(PlatformDependent.java:88) [netty-common-4.1.91.Final.jar:4.1.91.Final]
-	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:114) [netty-common-4.1.91.Final.jar:4.1.91.Final]
-	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:251) [netty-common-4.1.91.Final.jar:4.1.91.Final]
-	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:224) [netty-common-4.1.91.Final.jar:4.1.91.Final]
-	at io.netty.util.HashedWheelTimer.<init>(HashedWheelTimer.java:203) [netty-common-4.1.91.Final.jar:4.1.91.Final]
-	at org.asynchttpclient.DefaultAsyncHttpClient.newNettyTimer(DefaultAsyncHttpClient.java:111) [async-http-client-2.12.3.jar:?]
-	at org.asynchttpclient.DefaultAsyncHttpClient.<init>(DefaultAsyncHttpClient.java:90) [async-http-client-2.12.3.jar:?]
-	at org.asynchttpclient.Dsl.asyncHttpClient(Dsl.java:32) [async-http-client-2.12.3.jar:?]
-	at org.openqa.selenium.remote.http.netty.NettyClient.createHttpClient(NettyClient.java:94) [selenium-remote-driver-4.9.0.jar:?]
-	at org.openqa.selenium.remote.http.netty.NettyClient.<clinit>(NettyClient.java:47) [selenium-remote-driver-4.9.0.jar:?]
-	at org.openqa.selenium.remote.http.netty.NettyClient$Factory.createClient(NettyClient.java:135) [selenium-remote-driver-4.9.0.jar:?]
-	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:116) [selenium-remote-driver-4.9.0.jar:?]
-	at org.openqa.selenium.remote.HttpCommandExecutor.<init>(HttpCommandExecutor.java:94) [selenium-remote-driver-4.9.0.jar:?]
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.<init>(DriverCommandExecutor.java:88) [selenium-remote-driver-4.9.0.jar:?]
-	at org.openqa.selenium.chromium.ChromiumDriverCommandExecutor.<init>(ChromiumDriverCommandExecutor.java:40) [selenium-chromium-driver-4.9.0.jar:?]
-	at org.openqa.selenium.chrome.ChromeDriver$ChromeDriverCommandExecutor.<init>(ChromeDriver.java:111) [selenium-chrome-driver-4.9.0.jar:?]
-	at org.openqa.selenium.chrome.ChromeDriver.generateExecutor(ChromeDriver.java:101) [selenium-chrome-driver-4.9.0.jar:?]
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:88) [selenium-chrome-driver-4.9.0.jar:?]
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:84) [selenium-chrome-driver-4.9.0.jar:?]
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:52) [selenium-chrome-driver-4.9.0.jar:?]
-	at GoogleWalkthrough.googlewalkthrough.main(googlewalkthrough.java:10) [test-classes/:?]
-2024-12-29 16:10:26,185 DEBUG i.n.u.i.PlatformDependent0 [main] java.nio.DirectByteBuffer.<init>(long, int): unavailable
-2024-12-29 16:10:26,185 DEBUG i.n.u.i.PlatformDependent [main] sun.misc.Unsafe: available
-2024-12-29 16:10:26,186 DEBUG i.n.u.i.PlatformDependent [main] maxDirectMemory: 4219469824 bytes (maybe)
-2024-12-29 16:10:26,186 DEBUG i.n.u.i.PlatformDependent [main] -Dio.netty.tmpdir: C:\Users\kahue\AppData\Local\Temp (java.io.tmpdir)
-2024-12-29 16:10:26,186 DEBUG i.n.u.i.PlatformDependent [main] -Dio.netty.bitMode: 64 (sun.arch.data.model)
-2024-12-29 16:10:26,186 DEBUG i.n.u.i.PlatformDependent [main] Platform: Windows
-2024-12-29 16:10:26,186 DEBUG i.n.u.i.PlatformDependent [main] -Dio.netty.maxDirectMemory: -1 bytes
-2024-12-29 16:10:26,186 DEBUG i.n.u.i.PlatformDependent [main] -Dio.netty.uninitializedArrayAllocationThreshold: -1
-2024-12-29 16:10:26,187 DEBUG i.n.u.i.CleanerJava9 [main] java.nio.ByteBuffer.cleaner(): available
-2024-12-29 16:10:26,187 DEBUG i.n.u.i.PlatformDependent [main] -Dio.netty.noPreferDirect: false
-2024-12-29 16:10:26,192 DEBUG i.n.u.i.PlatformDependent [main] org.jctools-core.MpscChunkedArrayQueue: available
-2024-12-29 16:10:26,204 DEBUG i.n.u.i.InternalThreadLocalMap [main] -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
-2024-12-29 16:10:26,204 DEBUG i.n.u.i.InternalThreadLocalMap [main] -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
-2024-12-29 16:10:26,332 DEBUG i.n.h.s.JdkSslContext [main] Default protocols (JDK): [TLSv1.3, TLSv1.2] 
-2024-12-29 16:10:26,332 DEBUG i.n.h.s.JdkSslContext [main] Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
-2024-12-29 16:10:26,338 DEBUG i.n.u.c.GlobalEventExecutor [main] -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
-2024-12-29 16:10:26,346 DEBUG i.n.c.MultithreadEventLoopGroup [main] -Dio.netty.eventLoopThreads: 32
-2024-12-29 16:10:26,351 DEBUG i.n.c.n.NioEventLoop [main] -Dio.netty.noKeySetOptimization: false
-2024-12-29 16:10:26,351 DEBUG i.n.c.n.NioEventLoop [main] -Dio.netty.selectorAutoRebuildThreshold: 512
-2024-12-29 16:10:26,359 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@285d851a
-2024-12-29 16:10:26,362 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@7876d598
-2024-12-29 16:10:26,364 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@4a3e3e8b
-2024-12-29 16:10:26,366 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@5af28b27
-2024-12-29 16:10:26,368 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@71104a4
-2024-12-29 16:10:26,369 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@4985cbcb
-2024-12-29 16:10:26,371 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@72f46e16
-2024-12-29 16:10:26,372 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@3c9168dc
-2024-12-29 16:10:26,374 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@332a7fce
-2024-12-29 16:10:26,375 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@549621f3
-2024-12-29 16:10:26,376 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@54361a9
-2024-12-29 16:10:26,377 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@32232e55
-2024-12-29 16:10:26,378 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@5217f3d0
-2024-12-29 16:10:26,380 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@37ebc9d8
-2024-12-29 16:10:26,381 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@293bb8a5
-2024-12-29 16:10:26,382 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@2416a51
-2024-12-29 16:10:26,383 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@6fa590ba
-2024-12-29 16:10:26,384 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@6e9319f
-2024-12-29 16:10:26,385 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@72e34f77
-2024-12-29 16:10:26,386 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@7bf9b098
-2024-12-29 16:10:26,387 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@389adf1d
-2024-12-29 16:10:26,388 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@77307458
-2024-12-29 16:10:26,389 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@1fc0053e
-2024-12-29 16:10:26,390 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@290b1b2e
-2024-12-29 16:10:26,392 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@47874b25
-2024-12-29 16:10:26,393 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@33617539
-2024-12-29 16:10:26,394 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@2c177f9e
-2024-12-29 16:10:26,395 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@5db4c359
-2024-12-29 16:10:26,395 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@209775a9
-2024-12-29 16:10:26,396 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@18e7143f
-2024-12-29 16:10:26,398 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@f9b7332
-2024-12-29 16:10:26,400 TRACE i.n.c.n.NioEventLoop [main] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@74cec793
-2024-12-29 16:10:26,412 DEBUG i.n.b.PooledByteBufAllocator [main] -Dio.netty.allocator.numHeapArenas: 32
-2024-12-29 16:10:26,412 DEBUG i.n.b.PooledByteBufAllocator [main] -Dio.netty.allocator.numDirectArenas: 32
-2024-12-29 16:10:26,412 DEBUG i.n.b.PooledByteBufAllocator [main] -Dio.netty.allocator.pageSize: 8192
-2024-12-29 16:10:26,412 DEBUG i.n.b.PooledByteBufAllocator [main] -Dio.netty.allocator.maxOrder: 9
-2024-12-29 16:10:26,412 DEBUG i.n.b.PooledByteBufAllocator [main] -Dio.netty.allocator.chunkSize: 4194304
-2024-12-29 16:10:26,412 DEBUG i.n.b.PooledByteBufAllocator [main] -Dio.netty.allocator.smallCacheSize: 256
-2024-12-29 16:10:26,412 DEBUG i.n.b.PooledByteBufAllocator [main] -Dio.netty.allocator.normalCacheSize: 64
-2024-12-29 16:10:26,412 DEBUG i.n.b.PooledByteBufAllocator [main] -Dio.netty.allocator.maxCachedBufferCapacity: 32768
-2024-12-29 16:10:26,412 DEBUG i.n.b.PooledByteBufAllocator [main] -Dio.netty.allocator.cacheTrimInterval: 8192
-2024-12-29 16:10:26,412 DEBUG i.n.b.PooledByteBufAllocator [main] -Dio.netty.allocator.cacheTrimIntervalMillis: 0
-2024-12-29 16:10:26,412 DEBUG i.n.b.PooledByteBufAllocator [main] -Dio.netty.allocator.useCacheForAllThreads: false
-2024-12-29 16:10:26,412 DEBUG i.n.b.PooledByteBufAllocator [main] -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
-2024-12-29 16:10:26,419 DEBUG i.n.b.ByteBufUtil [main] -Dio.netty.allocator.type: pooled
-2024-12-29 16:10:26,419 DEBUG i.n.b.ByteBufUtil [main] -Dio.netty.threadLocalDirectBufferSize: 0
-2024-12-29 16:10:26,419 DEBUG i.n.b.ByteBufUtil [main] -Dio.netty.maxThreadLocalCharBufferSize: 16384
-2024-12-29 16:10:26,632 DEBUG i.n.c.DefaultChannelId [Forwarding newSession on session null to remote] -Dio.netty.processId: 21512 (auto-detected)
-2024-12-29 16:10:26,633 DEBUG i.n.u.NetUtil [Forwarding newSession on session null to remote] -Djava.net.preferIPv4Stack: false
-2024-12-29 16:10:26,633 DEBUG i.n.u.NetUtil [Forwarding newSession on session null to remote] -Djava.net.preferIPv6Addresses: false
-2024-12-29 16:10:26,635 DEBUG i.n.u.NetUtilInitializations [Forwarding newSession on session null to remote] Loopback interface: loopback_0 (Software Loopback Interface 1, 0:0:0:0:0:0:0:1)
-2024-12-29 16:10:26,636 DEBUG i.n.u.NetUtil [Forwarding newSession on session null to remote] Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
-2024-12-29 16:10:26,636 DEBUG i.n.c.DefaultChannelId [Forwarding newSession on session null to remote] -Dio.netty.machineId: bc:ec:a0:ff:fe:24:6d:ea (auto-detected)
-2024-12-29 16:10:26,665 DEBUG i.n.b.AbstractByteBuf [AsyncHttpClient-1-2] -Dio.netty.buffer.checkAccessible: true
-2024-12-29 16:10:26,665 DEBUG i.n.b.AbstractByteBuf [AsyncHttpClient-1-2] -Dio.netty.buffer.checkBounds: true
-2024-12-29 16:10:26,665 DEBUG i.n.u.ResourceLeakDetectorFactory [AsyncHttpClient-1-2] Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@8010284
-2024-12-29 16:10:26,679 DEBUG i.n.u.Recycler [AsyncHttpClient-1-2] -Dio.netty.recycler.maxCapacityPerThread: 4096
-2024-12-29 16:10:26,679 DEBUG i.n.u.Recycler [AsyncHttpClient-1-2] -Dio.netty.recycler.ratio: 8
-2024-12-29 16:10:26,680 DEBUG i.n.u.Recycler [AsyncHttpClient-1-2] -Dio.netty.recycler.chunkSize: 32
-2024-12-29 16:10:26,680 DEBUG i.n.u.Recycler [AsyncHttpClient-1-2] -Dio.netty.recycler.blocking: false
-2024-12-29 16:10:26,680 DEBUG i.n.u.Recycler [AsyncHttpClient-1-2] -Dio.netty.recycler.batchFastThreadLocalOnly: true
-2024-12-29 16:10:27,299 DEBUG i.n.h.c.c.Brotli [AsyncHttpClient-1-2] brotli4j not in the classpath; Brotli support will be unavailable.
-2024-12-29 16:10:27,375 DEBUG i.n.u.i.ThreadLocalRandom [main] -Dio.netty.initialSeedUniquifier: 0x7b7094c1acf304e5
-2025-01-02 16:28:45,184 INFO G.googlewalkthrough [main] User is in prepare
-2025-01-02 16:28:45,188 INFO G.googlewalkthrough [main] This is a info message
-2025-01-02 16:28:45,188 ERROR G.googlewalkthrough [main] This is a error message
-2025-01-02 16:28:45,188 WARN G.googlewalkthrough [main] This is a warn message
-2025-01-02 16:28:45,188 FATAL G.googlewalkthrough [main] This is a warn message
-2025-01-02 16:35:11,656 INFO G.googlewalkthrough [main] User is in prepare
-2025-01-02 16:35:11,659 INFO G.googlewalkthrough [main] This is a info message
-2025-01-02 16:35:11,659 ERROR G.googlewalkthrough [main] This is a error message
-2025-01-02 16:35:11,659 WARN G.googlewalkthrough [main] This is a warn message
-2025-01-02 16:35:11,660 FATAL G.googlewalkthrough [main] This is a warn message
-2025-01-02 16:37:19,964 INFO G.googlewalkthrough [main] User is in prepare
-2025-01-02 16:37:19,967 INFO G.googlewalkthrough [main] This is a info message
-2025-01-02 16:37:19,967 ERROR G.googlewalkthrough [main] This is a error message
-2025-01-02 16:37:19,967 WARN G.googlewalkthrough [main] This is a warn message
-2025-01-02 16:37:19,968 FATAL G.googlewalkthrough [main] This is a warn message
-2025-01-03 07:37:28,291 INFO G.googlewalkthrough [main] User is in prepare
-2025-01-03 07:37:28,294 INFO G.googlewalkthrough [main] This is a info message
-2025-01-03 07:37:28,294 ERROR G.googlewalkthrough [main] This is a error message
-2025-01-03 07:37:28,294 WARN G.googlewalkthrough [main] This is a warn message
-2025-01-03 07:37:28,294 FATAL G.googlewalkthrough [main] This is a warn message
-2025-01-03 07:38:19,924 INFO G.googlewalkthrough [main] User is in prepare
-2025-01-03 07:38:19,926 INFO G.googlewalkthrough [main] This is a info message
-2025-01-03 07:38:19,927 ERROR G.googlewalkthrough [main] This is a error message
-2025-01-03 07:38:19,927 WARN G.googlewalkthrough [main] This is a warn message
-2025-01-03 07:38:19,927 FATAL G.googlewalkthrough [main] This is a warn message
-2025-01-03 07:54:37,203 INFO G.googlewalkthrough [main] User is in prepare
-2025-01-03 07:54:37,206 INFO G.googlewalkthrough [main] This is a info message
-2025-01-03 07:54:37,206 ERROR G.googlewalkthrough [main] This is a error message
-2025-01-03 07:54:37,206 WARN G.googlewalkthrough [main] This is a warn message
-2025-01-03 07:54:37,206 FATAL G.googlewalkthrough [main] This is a warn message
-2025-01-03 07:58:41,945 INFO G.googlewalkthrough [main] User is in prepare
-2025-01-03 07:58:41,948 INFO G.googlewalkthrough [main] This is a info message
-2025-01-03 07:58:41,948 ERROR G.googlewalkthrough [main] This is a error message
-2025-01-03 07:58:41,948 WARN G.googlewalkthrough [main] This is a warn message
-2025-01-03 07:58:41,948 FATAL G.googlewalkthrough [main] This is a warn message
+
+2025-01-03 15:32:23,554 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-03 15:32:23,558 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-03 15:32:23,559 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /_rels/.rels
+2025-01-03 15:32:23,656 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-03 15:32:23,658 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-03 15:32:23,659 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-03 15:32:23,659 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-03 15:32:23,660 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-03 15:32:23,660 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-03 15:32:23,668 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-03 15:32:23,669 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-03 15:32:23,672 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-03 15:32:23,672 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-03 15:32:23,674 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-03 15:32:23,674 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-03 15:32:23,676 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-03 15:32:23,677 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-03 15:32:23,712 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-03 15:32:23,713 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle themefd26doctype
+2025-01-03 15:32:23,743 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stylesheet5d8bdoctype
+2025-01-03 15:32:23,748 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctstylesheet4257type
+2025-01-03 15:32:23,750 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfonts6623type
+2025-01-03 15:32:23,752 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfont14d8type
+2025-01-03 15:32:23,756 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfills2c6ftype
+2025-01-03 15:32:23,758 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfill550ctype
+2025-01-03 15:32:23,759 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborders0d66type
+2025-01-03 15:32:23,760 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborderf935type
+2025-01-03 15:32:23,762 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellxfs1322type
+2025-01-03 15:32:23,763 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctxf97f7type
+2025-01-03 15:32:23,765 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellstylexfsa81ftype
+2025-01-03 15:32:23,767 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdxfsb26atype
+2025-01-03 15:32:23,768 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle sstf81fdoctype
+2025-01-03 15:32:23,771 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsst44f3type
+2025-01-03 15:32:23,777 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrsta472type
+2025-01-03 15:32:23,791 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdrawing2748type
+2025-01-03 15:32:23,794 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle workbookec17doctype
+2025-01-03 15:32:23,797 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworkbook83c3type
+2025-01-03 15:32:23,800 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheets49fdtype
+2025-01-03 15:32:23,801 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheet4dbetype
+2025-01-03 15:32:23,802 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle strelationshipid1e94type
+2025-01-03 15:32:23,804 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle worksheetf539doctype
+2025-01-03 15:32:23,810 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworksheet530dtype
+2025-01-03 15:32:23,815 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcols627ctype
+2025-01-03 15:32:23,823 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheetdata8408type
+2025-01-03 15:32:23,826 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrowdd39type
+2025-01-03 15:32:23,830 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcell842btype
+2025-01-03 15:32:23,834 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcellrefe4e0type
+2025-01-03 15:32:23,840 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdefinednamesce48type
+2025-01-03 15:32:23,846 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctbookviewsb864type
+2025-01-03 15:32:23,846 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctbookviewf677type
+2025-01-03 15:32:23,850 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcelltypebf95type
+2025-01-03 15:32:23,853 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stxstringf179type
+2025-01-03 15:32:23,858 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcellstylexfid70c7type
+2025-01-03 15:32:23,860 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stnumfmtid76fbtype
+2025-01-03 15:34:33,881 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-03 15:34:33,885 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-03 15:34:33,886 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /_rels/.rels
+2025-01-03 15:34:33,980 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-03 15:34:33,982 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-03 15:34:33,982 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-03 15:34:33,983 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-03 15:34:33,983 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-03 15:34:33,984 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-03 15:34:33,992 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-03 15:34:33,992 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-03 15:34:33,995 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-03 15:34:33,996 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-03 15:34:33,996 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-03 15:34:33,997 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-03 15:34:33,997 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-03 15:34:33,998 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-03 15:34:34,032 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-03 15:34:34,033 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle themefd26doctype
+2025-01-03 15:34:34,062 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stylesheet5d8bdoctype
+2025-01-03 15:34:34,066 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctstylesheet4257type
+2025-01-03 15:34:34,069 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfonts6623type
+2025-01-03 15:34:34,071 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfont14d8type
+2025-01-03 15:34:34,074 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfills2c6ftype
+2025-01-03 15:34:34,076 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfill550ctype
+2025-01-03 15:34:34,077 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborders0d66type
+2025-01-03 15:34:34,078 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborderf935type
+2025-01-03 15:34:34,079 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellxfs1322type
+2025-01-03 15:34:34,080 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctxf97f7type
+2025-01-03 15:34:34,082 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellstylexfsa81ftype
+2025-01-03 15:34:34,083 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdxfsb26atype
+2025-01-03 15:34:34,085 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle sstf81fdoctype
+2025-01-03 15:34:34,089 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsst44f3type
+2025-01-03 15:34:34,095 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrsta472type
+2025-01-03 15:34:34,110 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdrawing2748type
+2025-01-03 15:34:34,113 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle workbookec17doctype
+2025-01-03 15:34:34,116 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworkbook83c3type
+2025-01-03 15:34:34,118 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheets49fdtype
+2025-01-03 15:34:34,120 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheet4dbetype
+2025-01-03 15:34:34,121 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle strelationshipid1e94type
+2025-01-03 15:34:34,122 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle worksheetf539doctype
+2025-01-03 15:34:34,128 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworksheet530dtype
+2025-01-03 15:34:34,135 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcols627ctype
+2025-01-03 15:34:34,145 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheetdata8408type
+2025-01-03 15:34:34,148 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrowdd39type
+2025-01-03 15:34:34,152 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcell842btype
+2025-01-03 15:34:34,156 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcellrefe4e0type
+2025-01-03 15:34:34,162 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdefinednamesce48type
+2025-01-03 15:34:34,164 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctbookviewsb864type
+2025-01-03 15:34:34,165 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctbookviewf677type
+2025-01-03 15:34:34,168 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcelltypebf95type
+2025-01-03 15:34:34,169 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stxstringf179type
+2025-01-03 15:34:34,175 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcellstylexfid70c7type
+2025-01-03 15:34:34,178 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stnumfmtid76fbtype
+2025-01-03 15:56:39,488 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-03 15:56:39,491 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-03 15:56:39,492 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /_rels/.rels
+2025-01-03 15:56:39,591 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-03 15:56:39,594 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-03 15:56:39,595 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-03 15:56:39,595 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-03 15:56:39,595 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-03 15:56:39,596 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-03 15:56:39,603 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-03 15:56:39,604 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-03 15:56:39,607 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-03 15:56:39,608 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-03 15:56:39,608 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-03 15:56:39,609 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-03 15:56:39,609 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-03 15:56:39,610 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-03 15:56:39,640 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-03 15:56:39,640 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle themefd26doctype
+2025-01-03 15:56:39,668 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stylesheet5d8bdoctype
+2025-01-03 15:56:39,672 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctstylesheet4257type
+2025-01-03 15:56:39,674 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfonts6623type
+2025-01-03 15:56:39,676 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfont14d8type
+2025-01-03 15:56:39,679 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfills2c6ftype
+2025-01-03 15:56:39,680 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfill550ctype
+2025-01-03 15:56:39,681 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborders0d66type
+2025-01-03 15:56:39,683 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborderf935type
+2025-01-03 15:56:39,684 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellxfs1322type
+2025-01-03 15:56:39,686 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctxf97f7type
+2025-01-03 15:56:39,688 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellstylexfsa81ftype
+2025-01-03 15:56:39,689 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdxfsb26atype
+2025-01-03 15:56:39,691 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle sstf81fdoctype
+2025-01-03 15:56:39,695 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsst44f3type
+2025-01-03 15:56:39,708 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrsta472type
+2025-01-03 15:56:39,721 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdrawing2748type
+2025-01-03 15:56:39,724 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle workbookec17doctype
+2025-01-03 15:56:39,727 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworkbook83c3type
+2025-01-03 15:56:39,729 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheets49fdtype
+2025-01-03 15:56:39,730 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheet4dbetype
+2025-01-03 15:56:39,732 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle strelationshipid1e94type
+2025-01-03 15:56:39,734 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle worksheetf539doctype
+2025-01-03 15:56:39,739 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworksheet530dtype
+2025-01-03 15:56:39,745 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcols627ctype
+2025-01-03 15:56:39,752 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheetdata8408type
+2025-01-03 15:56:39,755 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrowdd39type
+2025-01-03 15:56:39,758 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcell842btype
+2025-01-03 15:56:39,762 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcellrefe4e0type
+2025-01-03 15:56:39,768 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdefinednamesce48type
+2025-01-03 15:56:39,770 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctbookviewsb864type
+2025-01-03 15:56:39,771 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctbookviewf677type
+2025-01-03 15:56:39,774 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcelltypebf95type
+2025-01-03 15:56:39,776 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stxstringf179type
+2025-01-03 15:56:39,781 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcellstylexfid70c7type
+2025-01-03 15:56:39,782 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stnumfmtid76fbtype
+2025-01-03 15:57:17,889 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-03 15:57:17,892 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-03 15:57:17,894 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /_rels/.rels
+2025-01-03 15:57:17,987 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-03 15:57:17,997 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-03 15:57:17,998 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-03 15:57:17,998 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-03 15:57:17,998 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-03 15:57:17,999 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-03 15:57:18,006 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-03 15:57:18,006 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-03 15:57:18,009 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-03 15:57:18,009 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-03 15:57:18,010 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-03 15:57:18,010 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-03 15:57:18,011 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-03 15:57:18,011 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-03 15:57:18,042 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-03 15:57:18,043 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle themefd26doctype
+2025-01-03 15:57:18,071 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stylesheet5d8bdoctype
+2025-01-03 15:57:18,076 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctstylesheet4257type
+2025-01-03 15:57:18,078 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfonts6623type
+2025-01-03 15:57:18,080 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfont14d8type
+2025-01-03 15:57:18,083 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfills2c6ftype
+2025-01-03 15:57:18,085 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfill550ctype
+2025-01-03 15:57:18,086 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborders0d66type
+2025-01-03 15:57:18,087 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborderf935type
+2025-01-03 15:57:18,089 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellxfs1322type
+2025-01-03 15:57:18,090 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctxf97f7type
+2025-01-03 15:57:18,092 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellstylexfsa81ftype
+2025-01-03 15:57:18,094 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdxfsb26atype
+2025-01-03 15:57:18,096 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle sstf81fdoctype
+2025-01-03 15:57:18,100 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsst44f3type
+2025-01-03 15:57:18,105 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrsta472type
+2025-01-03 15:57:18,119 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdrawing2748type
+2025-01-03 15:57:18,122 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle workbookec17doctype
+2025-01-03 15:57:18,125 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworkbook83c3type
+2025-01-03 15:57:18,127 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheets49fdtype
+2025-01-03 15:57:18,128 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheet4dbetype
+2025-01-03 15:57:18,130 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle strelationshipid1e94type
+2025-01-03 15:57:18,132 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle worksheetf539doctype
+2025-01-03 15:57:18,137 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworksheet530dtype
+2025-01-03 15:57:18,142 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcols627ctype
+2025-01-03 15:57:18,151 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheetdata8408type
+2025-01-03 15:57:18,153 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrowdd39type
+2025-01-03 15:57:18,156 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcell842btype
+2025-01-03 15:57:18,159 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcellrefe4e0type
+2025-01-03 15:57:18,165 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdefinednamesce48type
+2025-01-03 15:57:18,167 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctbookviewsb864type
+2025-01-03 15:57:18,169 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctbookviewf677type
+2025-01-03 15:57:18,171 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcelltypebf95type
+2025-01-03 15:57:18,173 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stxstringf179type
+2025-01-03 15:57:18,178 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcellstylexfid70c7type
+2025-01-03 15:57:18,180 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stnumfmtid76fbtype
+2025-01-03 16:00:28,095 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-03 16:00:28,099 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-03 16:00:28,100 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /_rels/.rels
+2025-01-03 16:00:28,194 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-03 16:00:28,197 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-03 16:00:28,197 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-03 16:00:28,198 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-03 16:00:28,198 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-03 16:00:28,198 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-03 16:00:28,205 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-03 16:00:28,205 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-03 16:00:28,209 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-03 16:00:28,209 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-03 16:00:28,210 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-03 16:00:28,210 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-03 16:00:28,211 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-03 16:00:28,211 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-03 16:00:28,248 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-03 16:00:28,249 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle themefd26doctype
+2025-01-03 16:00:28,277 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stylesheet5d8bdoctype
+2025-01-03 16:00:28,282 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctstylesheet4257type
+2025-01-03 16:00:28,284 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfonts6623type
+2025-01-03 16:00:28,286 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfont14d8type
+2025-01-03 16:00:28,290 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfills2c6ftype
+2025-01-03 16:00:28,291 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfill550ctype
+2025-01-03 16:00:28,292 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborders0d66type
+2025-01-03 16:00:28,294 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborderf935type
+2025-01-03 16:00:28,296 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellxfs1322type
+2025-01-03 16:00:28,297 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctxf97f7type
+2025-01-03 16:00:28,299 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellstylexfsa81ftype
+2025-01-03 16:00:28,300 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdxfsb26atype
+2025-01-03 16:00:28,302 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle sstf81fdoctype
+2025-01-03 16:00:28,304 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsst44f3type
+2025-01-03 16:00:28,310 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrsta472type
+2025-01-03 16:00:28,324 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdrawing2748type
+2025-01-03 16:00:28,327 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle workbookec17doctype
+2025-01-03 16:00:28,330 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworkbook83c3type
+2025-01-03 16:00:28,333 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheets49fdtype
+2025-01-03 16:00:28,334 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheet4dbetype
+2025-01-03 16:00:28,334 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle strelationshipid1e94type
+2025-01-03 16:00:28,336 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle worksheetf539doctype
+2025-01-03 16:00:28,341 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworksheet530dtype
+2025-01-03 16:00:28,347 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcols627ctype
+2025-01-03 16:00:28,355 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheetdata8408type
+2025-01-03 16:00:28,356 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrowdd39type
+2025-01-03 16:00:28,359 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcell842btype
+2025-01-03 16:00:28,363 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcellrefe4e0type
+2025-01-03 16:00:28,368 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdefinednamesce48type
+2025-01-03 16:00:28,371 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctbookviewsb864type
+2025-01-03 16:00:28,372 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctbookviewf677type
+2025-01-03 16:00:28,375 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcelltypebf95type
+2025-01-03 16:00:28,377 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stxstringf179type
+2025-01-03 16:00:28,382 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcellstylexfid70c7type
+2025-01-03 16:00:28,384 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stnumfmtid76fbtype
+2025-01-04 02:42:41,064 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 02:42:41,068 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-04 02:42:41,069 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /_rels/.rels
+2025-01-04 02:42:41,182 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-04 02:42:41,184 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-04 02:42:41,185 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-04 02:42:41,185 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-04 02:42:41,185 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-04 02:42:41,186 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-04 02:42:41,194 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-04 02:42:41,195 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-04 02:42:41,197 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-04 02:42:41,198 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-04 02:42:41,198 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-04 02:42:41,199 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-04 02:42:41,199 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-04 02:42:41,200 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-04 02:42:41,227 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-04 02:42:41,228 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle themefd26doctype
+2025-01-04 02:42:41,261 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stylesheet5d8bdoctype
+2025-01-04 02:42:41,266 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctstylesheet4257type
+2025-01-04 02:42:41,268 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfonts6623type
+2025-01-04 02:42:41,271 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfont14d8type
+2025-01-04 02:42:41,275 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfills2c6ftype
+2025-01-04 02:42:41,277 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfill550ctype
+2025-01-04 02:42:41,278 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborders0d66type
+2025-01-04 02:42:41,280 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborderf935type
+2025-01-04 02:42:41,283 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellxfs1322type
+2025-01-04 02:42:41,285 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctxf97f7type
+2025-01-04 02:42:41,287 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellstylexfsa81ftype
+2025-01-04 02:42:41,289 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdxfsb26atype
+2025-01-04 02:42:41,290 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle sstf81fdoctype
+2025-01-04 02:42:41,294 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsst44f3type
+2025-01-04 02:42:41,300 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrsta472type
+2025-01-04 02:42:41,314 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdrawing2748type
+2025-01-04 02:42:41,317 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle workbookec17doctype
+2025-01-04 02:42:41,321 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworkbook83c3type
+2025-01-04 02:42:41,324 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheets49fdtype
+2025-01-04 02:42:41,325 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheet4dbetype
+2025-01-04 02:42:41,327 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle strelationshipid1e94type
+2025-01-04 02:42:41,329 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle worksheetf539doctype
+2025-01-04 02:42:41,333 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworksheet530dtype
+2025-01-04 02:42:41,339 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcols627ctype
+2025-01-04 02:42:41,346 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheetdata8408type
+2025-01-04 02:42:41,350 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrowdd39type
+2025-01-04 02:42:41,357 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcell842btype
+2025-01-04 02:42:41,364 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcellrefe4e0type
+2025-01-04 02:42:41,369 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdefinednamesce48type
+2025-01-04 02:42:41,373 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctbookviewsb864type
+2025-01-04 02:42:41,374 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctbookviewf677type
+2025-01-04 02:42:41,378 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcelltypebf95type
+2025-01-04 02:42:41,381 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stxstringf179type
+2025-01-04 02:42:41,385 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcellstylexfid70c7type
+2025-01-04 02:42:41,387 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stnumfmtid76fbtype
+2025-01-04 02:42:55,688 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 02:42:55,692 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-04 02:42:55,694 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /_rels/.rels
+2025-01-04 02:42:55,790 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-04 02:42:55,792 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-04 02:42:55,793 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-04 02:42:55,793 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-04 02:42:55,794 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-04 02:42:55,794 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-04 02:42:55,801 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-04 02:42:55,802 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-04 02:42:55,805 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-04 02:42:55,806 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-04 02:42:55,807 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-04 02:42:55,807 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-04 02:42:55,808 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-04 02:42:55,808 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-04 02:42:55,836 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-04 02:42:55,837 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle themefd26doctype
+2025-01-04 02:42:55,864 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stylesheet5d8bdoctype
+2025-01-04 02:42:55,867 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctstylesheet4257type
+2025-01-04 02:42:55,870 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfonts6623type
+2025-01-04 02:42:55,872 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfont14d8type
+2025-01-04 02:42:55,875 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfills2c6ftype
+2025-01-04 02:42:55,876 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfill550ctype
+2025-01-04 02:42:55,877 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborders0d66type
+2025-01-04 02:42:55,878 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborderf935type
+2025-01-04 02:42:55,880 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellxfs1322type
+2025-01-04 02:42:55,881 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctxf97f7type
+2025-01-04 02:42:55,883 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellstylexfsa81ftype
+2025-01-04 02:42:55,884 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdxfsb26atype
+2025-01-04 02:42:55,885 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle sstf81fdoctype
+2025-01-04 02:42:55,888 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsst44f3type
+2025-01-04 02:42:55,894 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrsta472type
+2025-01-04 02:42:55,906 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdrawing2748type
+2025-01-04 02:42:55,910 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle workbookec17doctype
+2025-01-04 02:42:55,912 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworkbook83c3type
+2025-01-04 02:42:55,915 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheets49fdtype
+2025-01-04 02:42:55,916 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheet4dbetype
+2025-01-04 02:42:55,917 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle strelationshipid1e94type
+2025-01-04 02:42:55,919 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle worksheetf539doctype
+2025-01-04 02:42:55,927 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworksheet530dtype
+2025-01-04 02:42:55,938 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcols627ctype
+2025-01-04 02:42:55,950 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheetdata8408type
+2025-01-04 02:42:55,953 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrowdd39type
+2025-01-04 02:42:55,958 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcell842btype
+2025-01-04 02:42:55,964 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcellrefe4e0type
+2025-01-04 02:42:55,969 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdefinednamesce48type
+2025-01-04 02:42:55,971 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctbookviewsb864type
+2025-01-04 02:42:55,973 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctbookviewf677type
+2025-01-04 02:42:55,975 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcelltypebf95type
+2025-01-04 02:42:55,977 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stxstringf179type
+2025-01-04 02:42:55,983 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcellstylexfid70c7type
+2025-01-04 02:42:55,985 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stnumfmtid76fbtype
+2025-01-04 02:50:37,919 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 02:50:37,923 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-04 02:50:37,924 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /_rels/.rels
+2025-01-04 02:50:38,020 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-04 02:50:38,022 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-04 02:50:38,023 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-04 02:50:38,023 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-04 02:50:38,023 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-04 02:50:38,024 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-04 02:50:38,030 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-04 02:50:38,031 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-04 02:50:38,034 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-04 02:50:38,034 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-04 02:50:38,035 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-04 02:50:38,035 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-04 02:50:38,036 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-04 02:50:38,036 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-04 02:50:38,066 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-04 02:50:38,067 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle themefd26doctype
+2025-01-04 02:50:38,096 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stylesheet5d8bdoctype
+2025-01-04 02:50:38,100 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctstylesheet4257type
+2025-01-04 02:50:38,103 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfonts6623type
+2025-01-04 02:50:38,104 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfont14d8type
+2025-01-04 02:50:38,107 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfills2c6ftype
+2025-01-04 02:50:38,108 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfill550ctype
+2025-01-04 02:50:38,109 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborders0d66type
+2025-01-04 02:50:38,111 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborderf935type
+2025-01-04 02:50:38,112 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellxfs1322type
+2025-01-04 02:50:38,114 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctxf97f7type
+2025-01-04 02:50:38,116 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellstylexfsa81ftype
+2025-01-04 02:50:38,117 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdxfsb26atype
+2025-01-04 02:50:38,119 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle sstf81fdoctype
+2025-01-04 02:50:38,122 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsst44f3type
+2025-01-04 02:50:38,127 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrsta472type
+2025-01-04 02:50:38,140 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdrawing2748type
+2025-01-04 02:50:38,143 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle workbookec17doctype
+2025-01-04 02:50:38,146 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworkbook83c3type
+2025-01-04 02:50:38,149 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheets49fdtype
+2025-01-04 02:50:38,150 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheet4dbetype
+2025-01-04 02:50:38,151 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle strelationshipid1e94type
+2025-01-04 02:50:38,152 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle worksheetf539doctype
+2025-01-04 02:50:38,157 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworksheet530dtype
+2025-01-04 02:50:38,163 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcols627ctype
+2025-01-04 02:50:38,171 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheetdata8408type
+2025-01-04 02:50:38,172 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrowdd39type
+2025-01-04 02:50:38,176 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcell842btype
+2025-01-04 02:50:38,179 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcellrefe4e0type
+2025-01-04 02:50:38,184 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdefinednamesce48type
+2025-01-04 02:50:38,188 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctbookviewsb864type
+2025-01-04 02:50:38,189 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctbookviewf677type
+2025-01-04 02:50:38,191 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcelltypebf95type
+2025-01-04 02:50:38,193 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stxstringf179type
+2025-01-04 02:50:38,197 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcellstylexfid70c7type
+2025-01-04 02:50:38,200 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stnumfmtid76fbtype
+2025-01-04 03:35:41,960 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-04 03:35:41,964 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-04 03:35:41,965 DEBUG o.a.p.o.o.PackageRelationshipCollection [main] Parsing relationship: /_rels/.rels
+2025-01-04 03:35:42,066 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-04 03:35:42,068 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-04 03:35:42,068 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-04 03:35:42,069 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-04 03:35:42,069 TRACE o.a.x.i.c.XBeanDebug [main] Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-04 03:35:42,070 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-04 03:35:42,081 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2025-01-04 03:35:42,081 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-04 03:35:42,086 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2025-01-04 03:35:42,087 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-04 03:35:42,089 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2025-01-04 03:35:42,090 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-04 03:35:42,091 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2025-01-04 03:35:42,091 TRACE o.a.x.i.c.XBeanDebug [main] Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-04 03:35:42,120 TRACE o.a.x.i.c.XBeanDebug [main] Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2025-01-04 03:35:42,120 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle themefd26doctype
+2025-01-04 03:35:42,150 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stylesheet5d8bdoctype
+2025-01-04 03:35:42,154 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctstylesheet4257type
+2025-01-04 03:35:42,156 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfonts6623type
+2025-01-04 03:35:42,158 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfont14d8type
+2025-01-04 03:35:42,161 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfills2c6ftype
+2025-01-04 03:35:42,163 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctfill550ctype
+2025-01-04 03:35:42,164 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborders0d66type
+2025-01-04 03:35:42,165 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctborderf935type
+2025-01-04 03:35:42,168 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellxfs1322type
+2025-01-04 03:35:42,170 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctxf97f7type
+2025-01-04 03:35:42,172 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcellstylexfsa81ftype
+2025-01-04 03:35:42,173 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdxfsb26atype
+2025-01-04 03:35:42,174 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle sstf81fdoctype
+2025-01-04 03:35:42,178 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsst44f3type
+2025-01-04 03:35:42,183 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrsta472type
+2025-01-04 03:35:42,197 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdrawing2748type
+2025-01-04 03:35:42,200 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle workbookec17doctype
+2025-01-04 03:35:42,203 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworkbook83c3type
+2025-01-04 03:35:42,206 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheets49fdtype
+2025-01-04 03:35:42,206 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheet4dbetype
+2025-01-04 03:35:42,208 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle strelationshipid1e94type
+2025-01-04 03:35:42,211 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle worksheetf539doctype
+2025-01-04 03:35:42,218 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctworksheet530dtype
+2025-01-04 03:35:42,227 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcols627ctype
+2025-01-04 03:35:42,237 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctsheetdata8408type
+2025-01-04 03:35:42,241 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctrowdd39type
+2025-01-04 03:35:42,250 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctcell842btype
+2025-01-04 03:35:42,254 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcellrefe4e0type
+2025-01-04 03:35:42,260 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctdefinednamesce48type
+2025-01-04 03:35:42,263 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctbookviewsb864type
+2025-01-04 03:35:42,264 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle ctbookviewf677type
+2025-01-04 03:35:42,266 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcelltypebf95type
+2025-01-04 03:35:42,269 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stxstringf179type
+2025-01-04 03:35:42,274 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stcellstylexfid70c7type
+2025-01-04 03:35:42,276 TRACE o.a.x.i.c.XBeanDebug [main] Resolving type for handle stnumfmtid76fbtype
