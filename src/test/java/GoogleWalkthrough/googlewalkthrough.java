@@ -15,12 +15,25 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.InputStream;
 import java.time.Duration;
+import java.util.Properties;
 
 public class googlewalkthrough {
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) throws InterruptedException, IOException {
 
         WebDriver driver;
+
+        //Properties file
+        Properties properties = new Properties();
+        InputStream inputStream = new FileInputStream("C:\\Program Files\\Intellij\\IdeaProjects\\Web_Automation_2\\src\\test\\java\\GoogleWalkthrough\\config.properties");
+        properties.load(inputStream);
+        String browser = properties.getProperty("browser");
+        String path = properties.getProperty("path");
+        System.out.println(browser + "\n"+ path);
 
         //Log4j2
         Logger logger = LogManager.getLogger(googlewalkthrough.class);
@@ -40,7 +53,7 @@ public class googlewalkthrough {
             ExtentTest test = extent.createTest(Feature.class, "Google Search");
             ExtentTest scenario = test.createNode(Scenario.class, "Walkthrough the whole google");
             //SET UP DRIVER
-            System.setProperty("webdriver.chrome.driver", "C:\\Program Files\\Intellij\\IdeaProjects\\Web_Automation_2\\chromedriver.exe");
+            System.setProperty(browser, path);
             driver = new ChromeDriver();
 
 
