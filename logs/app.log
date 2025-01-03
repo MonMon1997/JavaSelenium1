@@ -224,3 +224,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 2025-01-03 07:38:19,927 ERROR G.googlewalkthrough [main] This is a error message
 2025-01-03 07:38:19,927 WARN G.googlewalkthrough [main] This is a warn message
 2025-01-03 07:38:19,927 FATAL G.googlewalkthrough [main] This is a warn message
+2025-01-03 07:54:37,203 INFO G.googlewalkthrough [main] User is in prepare
+2025-01-03 07:54:37,206 INFO G.googlewalkthrough [main] This is a info message
+2025-01-03 07:54:37,206 ERROR G.googlewalkthrough [main] This is a error message
+2025-01-03 07:54:37,206 WARN G.googlewalkthrough [main] This is a warn message
+2025-01-03 07:54:37,206 FATAL G.googlewalkthrough [main] This is a warn message
+2025-01-03 07:58:41,945 INFO G.googlewalkthrough [main] User is in prepare
+2025-01-03 07:58:41,948 INFO G.googlewalkthrough [main] This is a info message
+2025-01-03 07:58:41,948 ERROR G.googlewalkthrough [main] This is a error message
+2025-01-03 07:58:41,948 WARN G.googlewalkthrough [main] This is a warn message
+2025-01-03 07:58:41,948 FATAL G.googlewalkthrough [main] This is a warn message
