@@ -572,3 +572,8 @@
 2025-01-04 05:16:11,092 DEBUG o.a.p.o.o.ZipPackage [main] Save part 'xl/styles.xml'
 2025-01-04 05:16:11,093 DEBUG o.a.p.o.o.ZipPackage [main] Save part 'xl/workbook.xml'
 2025-01-04 05:16:11,093 DEBUG o.a.p.o.o.ZipPackage [main] Save part 'xl/worksheets/sheet1.xml'
+2025-01-04 07:41:02,265 INFO G.googlewalkthrough [main] User is in prepare
+2025-01-04 07:41:02,268 INFO G.googlewalkthrough [main] This is a info message
+2025-01-04 07:41:02,268 ERROR G.googlewalkthrough [main] This is a error message
+2025-01-04 07:41:02,268 WARN G.googlewalkthrough [main] This is a warn message
+2025-01-04 07:41:02,268 FATAL G.googlewalkthrough [main] This is a warn message
