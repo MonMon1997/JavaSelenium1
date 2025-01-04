@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" thread-count="2" parallel="tests">
+    <test  name="Sweet1">
+    <parameter name="browserName" value="Chrome">
+    </parameter>
+        <classes>
+        <class name="TestngSequence.multiBrowserTesting">
+            <methods>
+            <include name="t1"/>
+            <include name="t2"/>
+        </methods>
+        </class>
+    </classes>
+</test>
+    <test  name="Sweet2">
+        <parameter name="browserName" value="Edge">
+
+        </parameter>
+        <classes>
+            <class name="TestngSequence.multiBrowserTesting">
+                <methods>
+                <include name="t1"/>
+                <include name="t2"/>
+            </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
