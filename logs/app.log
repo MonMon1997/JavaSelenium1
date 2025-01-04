@@ -582,3 +582,8 @@
 2025-01-04 17:14:49,644 ERROR G.googlewalkthrough [main] This is a error message
 2025-01-04 17:14:49,644 WARN G.googlewalkthrough [main] This is a warn message
 2025-01-04 17:14:49,644 FATAL G.googlewalkthrough [main] This is a warn message
+2025-01-04 17:30:49,131 INFO G.googlewalkthrough [main] User is in prepare
+2025-01-04 17:30:49,135 INFO G.googlewalkthrough [main] This is a info message
+2025-01-04 17:30:49,135 ERROR G.googlewalkthrough [main] This is a error message
+2025-01-04 17:30:49,135 WARN G.googlewalkthrough [main] This is a warn message
+2025-01-04 17:30:49,135 FATAL G.googlewalkthrough [main] This is a warn message
