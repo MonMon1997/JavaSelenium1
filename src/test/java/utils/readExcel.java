@@ -9,10 +9,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.io.*;
-import java.util.Properties;
-import java.util.concurrent.TimeUnit;
 
-public class testNgWithExcel {
+public class readExcel {
 
     public static Object[][] excel(String filePath) throws IOException {
         FileInputStream inputStream = new FileInputStream(new File(filePath));
