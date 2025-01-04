@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" thread-count="2" parallel="tests">
+    <test verbose="2" name="Suite1">
+        <parameter name="browser" value="Chrome"></parameter>
+        <classes>
+            <class name="TestNGListener.TestngMultiBrowserITestListener">
+                <methods>
+                    <include name="t1"/>
+                    <include name="t2"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test verbose="2" name="Suite2">
+        <parameter name="browser" value="Edge"></parameter>
+        <classes>
+            <class name="TestNGListener.TestngMultiBrowserITestListener">
+                <methods>
+                    <include name="t1"/>
+                    <include name="t2"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
