@@ -593,3 +593,86 @@
 2025-01-05 11:42:35,915 INFO H.headlessBrowser [main] User passing the text to the textarea
 2025-01-05 11:43:21,920 INFO H.headlessBrowser [main] User access the Google
 2025-01-05 11:43:21,977 INFO H.headlessBrowser [main] User passing the text to the textarea
+2025-01-05 15:49:13,567 INFO G.googlewalkthrough [main] User is in prepare
+2025-01-05 15:49:13,570 INFO G.googlewalkthrough [main] This is a info message
+2025-01-05 15:49:13,570 ERROR G.googlewalkthrough [main] This is a error message
+2025-01-05 15:49:13,571 WARN G.googlewalkthrough [main] This is a warn message
+2025-01-05 15:49:13,571 FATAL G.googlewalkthrough [main] This is a warn message
+2025-01-05 15:56:30,543 INFO G.googlewalkthrough [main] User is in prepare
+2025-01-05 15:56:30,565 INFO G.googlewalkthrough [main] This is a info message
+2025-01-05 15:56:30,566 ERROR G.googlewalkthrough [main] This is a error message
+2025-01-05 15:56:30,566 WARN G.googlewalkthrough [main] This is a warn message
+2025-01-05 15:56:30,566 FATAL G.googlewalkthrough [main] This is a warn message
+2025-01-05 16:22:18,184 INFO playGround [main] User start the RUN case
+2025-01-05 16:22:20,326 INFO playGround [main] Finish UAT Test 1
+2025-01-05 16:22:20,577 INFO playGround [main] Finish UAT Test 2
+2025-01-05 16:22:20,808 INFO playGround [main] Finish UAT Test 3
+2025-01-05 16:26:23,564 INFO playGround [main] User start the RUN case
+2025-01-05 16:26:25,721 INFO playGround [main] Finish Test 4
+2025-01-05 16:26:26,016 INFO playGround [main] User END the case
+2025-01-05 16:26:51,446 INFO playGround [main] User start the RUN case
+2025-01-05 16:26:53,257 INFO playGround [main] Finish Test 4
+2025-01-05 16:26:53,476 INFO playGround [main] User END the case
+2025-01-05 16:30:57,424 INFO playGround [main] User start the RUN case
+2025-01-05 16:30:59,704 INFO playGround [main] Finish UAT Test 1
+2025-01-05 16:31:00,428 INFO playGround [main] Finish UAT Test 2
+2025-01-05 16:31:00,677 INFO playGround [main] Finish UAT Test 3
+2025-01-05 16:31:00,698 INFO playGround [main] Finish Test 4
+2025-01-05 16:31:00,860 INFO playGround [main] User END the case
+2025-01-05 16:36:36,341 INFO playGround [main] User start the RUN case
+2025-01-05 16:36:38,860 INFO playGround [main] Finish UAT Test 1
+2025-01-05 16:36:39,025 INFO playGround [main] User END the case
+2025-01-05 16:36:39,219 INFO playGround [main] User start the RUN case
+2025-01-05 16:36:41,149 INFO playGround [main] Finish UAT Test 2
+2025-01-05 16:36:41,224 INFO playGround [main] User END the case
+2025-01-05 16:36:41,299 INFO playGround [main] User start the RUN case
+2025-01-05 16:36:43,888 INFO playGround [main] Finish UAT Test 3
+2025-01-05 16:36:43,978 INFO playGround [main] User END the case
+2025-01-05 16:36:44,039 INFO playGround [main] User start the RUN case
+2025-01-05 16:36:45,615 INFO playGround [main] Finish Test 4
+2025-01-05 16:36:45,716 INFO playGround [main] User END the case
+2025-01-05 16:40:28,747 INFO playGround [main] User start the RUN case
+2025-01-05 16:40:30,913 INFO playGround [main] Finish UAT Test 1
+2025-01-05 16:40:31,193 INFO playGround [main] Finish UAT Test 2
+2025-01-05 16:40:31,458 INFO playGround [main] Finish UAT Test 3
+2025-01-05 16:40:31,473 INFO playGround [main] Finish Test 4
+2025-01-05 16:40:31,631 INFO playGround [main] User END the case
+2025-01-05 16:41:57,916 INFO playGround [main] User start the RUN case
+2025-01-05 16:42:00,149 INFO playGround [main] Finish UAT Test 1
+2025-01-05 16:42:00,603 INFO playGround [main] Finish UAT Test 2
+2025-01-05 16:42:00,823 INFO playGround [main] Finish UAT Test 3
+2025-01-05 16:42:00,838 INFO playGround [main] Finish Test 4
+2025-01-05 16:42:01,013 INFO playGround [main] User END the case
+2025-01-05 16:42:07,090 INFO playGround [main] User start the RUN case
+2025-01-05 16:42:09,124 INFO playGround [main] Finish UAT Test 1
+2025-01-05 16:42:09,312 INFO playGround [main] Finish UAT Test 2
+2025-01-05 16:42:09,330 INFO playGround [main] Finish Test 4
+2025-01-05 16:45:43,236 INFO playGround [main] User start the RUN case
+2025-01-05 16:45:45,616 INFO playGround [main] Finish UAT Test 1
+2025-01-05 16:45:45,954 INFO playGround [main] Finish UAT Test 2
+2025-01-05 16:45:46,259 INFO playGround [main] Finish UAT Test 3
+2025-01-05 16:45:46,274 INFO playGround [main] Finish Test 4
+2025-01-05 16:45:46,488 INFO playGround [main] User END the case
+2025-01-05 16:46:14,320 INFO playGround [main] User start the RUN case
+2025-01-05 16:46:16,424 INFO playGround [main] Finish UAT Test 1
+2025-01-05 16:46:16,718 INFO playGround [main] Finish UAT Test 2
+2025-01-05 16:46:16,737 INFO playGround [main] Finish Test 4
+2025-01-05 16:48:47,736 INFO playGround [main] User start the RUN case
+2025-01-05 16:48:50,364 INFO playGround [main] Finish UAT Test 1
+2025-01-05 16:48:50,951 INFO playGround [main] Finish UAT Test 2
+2025-01-05 16:48:51,373 INFO playGround [main] Finish UAT Test 3
+2025-01-05 16:48:51,409 INFO playGround [main] Finish Test 4
+2025-01-05 16:48:51,566 INFO playGround [main] User END the case
+2025-01-05 16:50:14,008 INFO playGround [main] User start the RUN case
+2025-01-05 16:50:16,308 INFO playGround [main] Finish UAT Test 1
+2025-01-05 16:50:16,633 INFO playGround [main] Finish UAT Test 2
+2025-01-05 16:50:16,871 INFO playGround [main] Finish UAT Test 3
+2025-01-05 16:50:17,173 INFO playGround [main] Finish UAT Test 3
+2025-01-05 16:50:17,344 INFO playGround [main] Finish UAT Test 3
+2025-01-05 16:50:17,497 INFO playGround [main] Finish UAT Test 3
+2025-01-05 16:50:17,520 INFO playGround [main] Finish Test 4
+2025-01-05 16:50:17,680 INFO playGround [main] User END the case
+2025-01-05 16:50:32,045 INFO playGround [main] User start the RUN case
+2025-01-05 16:50:33,986 INFO playGround [main] Finish UAT Test 1
+2025-01-05 16:50:34,153 INFO playGround [main] Finish UAT Test 2
+2025-01-05 16:50:34,169 INFO playGround [main] Finish Test 4

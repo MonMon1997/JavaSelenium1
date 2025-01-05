@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2"  name="Play1">
+    <!-- GROUPING -->
+        <groups>
+            <run>
+                <include name="Regression"></include>
+            </run>
+        </groups>
+
+    <!-- Running playGround Class-->
+        <classes>
+            <class name="playGround"></class>
+        </classes>
+    </test>
+</suite>
