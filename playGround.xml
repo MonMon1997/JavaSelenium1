@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2"  name="Play1" thread-count="4" parallel="tests">
+    <!-- GROUPING -->
+        <parameter name="browser" value="Edge"/>
+
+        <groups>
+            <run>
+                <include name="Regression"/>
+            </run>
+        </groups>
+
+    <!-- Running PlayGround.playGround Class-->
+        <classes>
+            <class name="PlayGround.playGround"/>
+        </classes>
+    </test>
+
+    <test verbose="2"  name="Play2">
+        <!-- GROUPING -->
+        <parameter name="browser" value="Chrome"/>
+
+        <groups>
+            <run>
+                <include name="Regression"></include>
+            </run>
+        </groups>
+
+        <!-- Running PlayGround.playGround Class-->
+        <classes>
+            <class name="PlayGround.playGround"></class>
+        </classes>
+    </test>
+
+</suite>

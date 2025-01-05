@@ -1,11 +1,20 @@
+package PlayGround;
+
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.ss.usermodel.Sheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.IRetryAnalyzer;
 import org.testng.ITestResult;
@@ -13,13 +22,16 @@ import org.testng.annotations.*;
 
 import java.awt.*;
 import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
 import java.io.IOException;
-
+import java.time.Duration;
+import java.util.Properties;
 
 
 public class playGround {
 
-    WebDriver driver;
+    WebDriver driver =null;
     ExtentReports reports;
     ExtentSparkReporter spark;
     ExtentTest test ;
@@ -42,10 +54,40 @@ public class playGround {
         }
     }
 
+    public static Object[][] excel(String filePath) throws IOException {
+        FileInputStream inputStream = new FileInputStream(new File(filePath));
+        XSSFWorkbook workbook = new XSSFWorkbook(inputStream);
+        Sheet sheet = workbook.getSheetAt(0);
+
+
+        int rowCount = sheet.getPhysicalNumberOfRows();
+        int colCount = sheet.getRow(0).getPhysicalNumberOfCells();
+
+
+        Object[][] data = new Object[rowCount-1][colCount];
+
+
+        for(int i = 1; i< rowCount;i++){
+            Row row = sheet.getRow(i);
+            for (int j=0; j< colCount;j++){
+                data[i-1][j] = row.getCell(j).toString();
+            }
+        }
+
+
+        workbook.close();
+        inputStream.close();
+
+
+        return data;
+    }
+
+
 
     //TestNg Before Test
     @BeforeTest (groups = {"UAT", "Regression"})
-    public void set1(){
+    @Parameters ("browser")
+    public void set1(@Optional("Chrome") String browserName){
         //Extent Reports
         reports = new ExtentReports();
         spark = new ExtentSparkReporter("P6.html");
@@ -58,10 +100,14 @@ public class playGround {
         logger.info("User start the RUN case");
 
         //Set Up driver
-        System.setProperty("chrome", "C:\\Program Files\\Intellij\\IdeaProjects\\Web_Automation_2\\chromedriver.exe");
-        driver = new ChromeDriver();
+        if (browserName.equalsIgnoreCase("Chrome")){
+            System.setProperty("chrome", "C:\\Program Files\\Intellij\\IdeaProjects\\Web_Automation_2\\chromedriver.exe");
+            driver = new ChromeDriver();
+        } else if (browserName.equalsIgnoreCase("Edge")) {
+            System.setProperty("Edge", "C:\\Program Files\\Intellij\\IdeaProjects\\Web_Automation_2\\msedgedriver.exe");
+            driver = new EdgeDriver();
+        }
         driver.navigate().to("https://www.selenium.dev/");
-
     }
 
     //UAT Test 1 - Click Project Structure and Governance
@@ -126,6 +172,62 @@ public class playGround {
             logger.info("Finish Test 5");
         } catch (Exception e){
             test.fail("Fail - Click Document Button");
+        }
+    }
+
+    //UAT Test 6 - Input Excel
+    @Test (groups = {"UAT, Regression"}, retryAnalyzer = RetryFailure_AListener.class, priority = 5)
+    public void t6(){
+        try {
+            //Properties file
+            Properties properties = new Properties();
+
+            FileOutputStream outputStream = new FileOutputStream("C:\\Program Files\\Intellij\\IdeaProjects\\Web_Automation_2\\src\\test\\java\\PlayGround\\config.properties");
+            properties.setProperty("search", "Red Pills or Blue Pills");
+            properties.store(outputStream,null);
+
+            FileInputStream inputStream = new FileInputStream("C:\\Program Files\\Intellij\\IdeaProjects\\Web_Automation_2\\src\\test\\java\\PlayGround\\config.properties");
+            properties.load(inputStream);
+            String searchfield = properties.getProperty("search");
+            System.out.println("Your input is:" + searchfield);
+
+            driver.navigate().to("https://www.google.com/");
+            WebElement search = driver.findElement(By.name("q"));
+            search.sendKeys(searchfield);
+
+            test.pass("Pass - Input Excel");
+            logger.info("Finish Test 6");
+        } catch (Exception e){
+            test.fail("Fail - Input Excel");
+        }
+    }
+
+    //UAT Test 7 - enterUsername
+    @Test (groups = {"UAT, Regression"}, retryAnalyzer = RetryFailure_AListener.class, priority = 6)
+    public void t7(){
+        try {
+            String filePath = "C:\\Program Files\\Intellij\\IdeaProjects\\Web_Automation_2\\excel\\test.xlsx";
+            Object[][] excelData = excel(filePath);
+
+            driver.navigate().to("https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com%2F&ifkv=AeZLP994VvkckXPWT43MmTq3NPx8D6u2DmHd3boLHi2e1g-aTnrU32tlaDgdylOSQlhczVBG-jakyA&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1479746831%3A1736113023406101&ddm=1");
+
+            for (Object[]row:excelData) {
+                String user = (String) row[0];
+
+                WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+                WebElement searchInput = wait.until(ExpectedConditions.elementToBeClickable(
+                        By.xpath("//*[@id=\"identifierId\"]")
+                ));
+
+                searchInput.clear();
+                searchInput.sendKeys(user);
+                System.out.println("Now test:"+ user);
+            }
+
+            test.pass("Pass - enterUsername");
+            logger.info("Finish Test 7");
+        } catch (Exception e){
+            test.fail("Fail - enterUsername");
         }
     }
 
