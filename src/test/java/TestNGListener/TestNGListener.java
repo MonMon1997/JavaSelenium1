@@ -24,7 +24,6 @@ public class TestNGListener implements ITestListener{
         reports = new ExtentReports();
         reports.attachReporter(spark);
         test = reports.createTest("MyFirstTest");
-
     }
 
     @Override

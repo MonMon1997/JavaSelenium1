@@ -587,3 +587,9 @@
 2025-01-04 17:30:49,135 ERROR G.googlewalkthrough [main] This is a error message
 2025-01-04 17:30:49,135 WARN G.googlewalkthrough [main] This is a warn message
 2025-01-04 17:30:49,135 FATAL G.googlewalkthrough [main] This is a warn message
+2025-01-05 11:38:01,389 INFO H.headlessBrowser [main] User access the Google
+2025-01-05 11:38:01,460 INFO H.headlessBrowser [main] User passing the text to the textarea
+2025-01-05 11:42:35,859 INFO H.headlessBrowser [main] User access the Google
+2025-01-05 11:42:35,915 INFO H.headlessBrowser [main] User passing the text to the textarea
+2025-01-05 11:43:21,920 INFO H.headlessBrowser [main] User access the Google
+2025-01-05 11:43:21,977 INFO H.headlessBrowser [main] User passing the text to the textarea
